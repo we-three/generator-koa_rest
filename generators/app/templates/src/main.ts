@@ -2,7 +2,7 @@ import 'module-alias/register'
 import Koa from 'koa'
 import KoaBody from 'koa-body'
 import Dotenv from 'dotenv'
-import HelloController from './routers/hello.controller'
+import HelloController from './controller/hello.controller'
 import { Config, Application } from '@sundial/koa_rest'
 
 @Config({
