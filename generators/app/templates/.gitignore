@@ -1,0 +1,11 @@
+.metals
+.vscode
+yarn-error.log
+node_modules
+dist
+compiled
+scratch
+*scratch*
+.env
+.env.*
+!.env.example
